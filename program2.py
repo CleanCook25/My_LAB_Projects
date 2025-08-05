@@ -6,4 +6,6 @@ def find_missing(lst):
 
 # Driver code
 lst = [1, 2, 4, 6, 7, 9, 10]
+print("The answer is the below = ")
 print(find_missing(lst))
+#thank u for seeing it
